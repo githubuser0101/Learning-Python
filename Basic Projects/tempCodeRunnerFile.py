@@ -1,0 +1,1 @@
+marks > 100 and marks < 0
